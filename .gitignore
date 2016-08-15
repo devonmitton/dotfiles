@@ -1,0 +1,14 @@
+# OS Junk
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+
+
+# SASS Junk
+.sass_cache
+*.css.map
+
+# NPM Junk
+node_modules
+.npm
