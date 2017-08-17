@@ -4,7 +4,6 @@
 Thumbs.db
 ehthumbs.db
 
-
 # SASS Junk
 .sass_cache
 *.css.map
@@ -12,3 +11,11 @@ ehthumbs.db
 # NPM Junk
 node_modules
 .npm
+
+# Jekyll Junk
+.sass-cache
+.asset-cache
+
+# Scratch files
+*.todo
+*.taskpaper
